@@ -1,2 +1,6 @@
 welcome to devops m1
 m2
+<<<<<<< HEAD
+=======
+m3
+>>>>>>> devops
